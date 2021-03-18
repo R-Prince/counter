@@ -1,0 +1,50 @@
+/* General CSS */
+html{
+    font-family: 'Lato', sans-serif;
+}
+
+/* Navbar CSS */
+.base-navbar{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 2px;
+    background-color: black;
+}
+
+.navbar-nav a{
+    color: white;
+}
+
+.navbar-logo{
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: white;
+}
+
+.nav-icon{
+    color: white;
+}
+
+/* Button CSS */
+.btn-pink{
+    background-color: #F2055C;
+    color: white;
+    letter-spacing: 2px;
+}
+
+/* Homepage CSS */
+
+.hero-container{
+    background: url('/media/piggy_bank_background.jpeg') no-repeat center center fixed ;
+    background-size: cover;
+    height: 90vh;
+}
+
+.hero-header{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 4px;
+}
+
+.hero-text{
+    letter-spacing: 3px;
+}
